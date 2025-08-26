@@ -1,0 +1,43 @@
+{
+  "properties": [
+    {
+      "name": "Azur.datasource.driver-class-name",
+      "type": "java.lang.String",
+      "description": "Description for Azur.datasource.driver-class-name."
+    },
+    {
+      "name": "Azur.datasource.url",
+      "type": "java.lang.String",
+      "description": "Description for Azur.datasource.url."
+    },
+    {
+      "name": "Azur.datasource.username",
+      "type": "java.lang.String",
+      "description": "Description for Azur.datasource.username."
+    },
+    {
+      "name": "Azur.datasource.password",
+      "type": "java.lang.String",
+      "description": "Description for Azur.datasource.password."
+    },
+    {
+      "name": "Azur.redis.host",
+      "type": "java.lang.String",
+      "description": "Description for Azur.redis.host."
+    },
+    {
+      "name": "Azur.redis.port",
+      "type": "java.lang.String",
+      "description": "Description for Azur.redis.port."
+    },
+    {
+      "name": "Azur.redis.password",
+      "type": "java.lang.String",
+      "description": "Description for Azur.redis.password."
+    },
+    {
+      "name": "Azur.redis.database",
+      "type": "java.lang.String",
+      "description": "Description for Azur.redis.database."
+    }
+  ] }
